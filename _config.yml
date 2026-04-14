@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Faunria Wiki for Player Characters
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
