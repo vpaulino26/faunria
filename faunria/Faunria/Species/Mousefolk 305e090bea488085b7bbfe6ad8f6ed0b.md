@@ -1,6 +1,6 @@
-[Home](faunria/Faunria%20305e090bea488029b2d2ea8b08b997ac.html)
+[Home](../Faunria%20305e090bea488029b2d2ea8b08b997ac.html)
 
-[Species](Faunria/Species%20305e090bea4880f59fccd13a09062fe9.html)
+[Species](../Species%20305e090bea4880f59fccd13a09062fe9.html)
 # Mousefolk
 
 traits taken from [https://www.dandwiki.com/wiki/Mousefolk_(5e_Race)](https://www.dandwiki.com/wiki/Mousefolk_(5e_Race))
