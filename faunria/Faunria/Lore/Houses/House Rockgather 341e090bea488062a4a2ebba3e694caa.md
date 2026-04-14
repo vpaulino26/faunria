@@ -1,0 +1,3 @@
+# House Rockgather
+
+They’ve been the house of the King for 60 years (a few generations) after usurping the long lasting dynasty of the Architects. They control Crownbow and the Riverbends, but Riverbend terrain is more like a marsh, whereas theyre used to the rocks and creaks of Logjam. After the FaunFlora war, they carved out land for the Riverbends and built the capital of Faunria on a point of many trading ports to consolidate and control wealth in the capital.
