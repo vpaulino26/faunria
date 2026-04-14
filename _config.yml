@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+title: Faunria Wiki
 plugins:
   - jekyll-relative-links
 relative_links:
